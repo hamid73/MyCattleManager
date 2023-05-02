@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/IRANSansXFaNum-Bold.ttf",
+      "sha1": "39a35a57dda7818ee4eab38a1dea3de2c0b5f0b8"
+    },
+    {
+      "path": "assets/fonts/IRANSansXFaNum-ExtraBold.ttf",
+      "sha1": "2f47578ebdfddf7675542de0afa8aab45c6b40d1"
+    },
+    {
+      "path": "assets/fonts/IRANSansXFaNum-Light.ttf",
+      "sha1": "c63465b7ee36df18b1249a1e13396038978ce5f0"
+    },
+    {
+      "path": "assets/fonts/IRANSansXFaNum-Regular.ttf",
+      "sha1": "998aeb4107ee5d992e8f84006f86d17651755408"
+    }
+  ]
+}
